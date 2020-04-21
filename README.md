@@ -10,7 +10,7 @@ As we can see, there is **exponential trends in Indonesia cases**
 ## Exponential Regression
 This is the worst-prediction with only using Exponential Regression
 ![alt text](https://raw.githubusercontent.com/IqbalLx/Coronavirus-in-Indonesia-Analysis/master/snapshot/Exponential%20Regression.png)
-<br/> By using this method only we see that the number of Infected keep increasing over time, this is because the curve is exponential without limit, which is population limit
+<br/> By using this method only we see that the number of Infected keep increasing over time, this happens because the curve is exponential, and it is not bounded which is by the total population.
 
 ## SEIRD Model 
 SEIRD model is an advancement from basic SIR model, here we add 2 new compartments, Exposed and Death.
